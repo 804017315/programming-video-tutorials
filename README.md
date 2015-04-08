@@ -5,3 +5,7 @@
 #### Java
 
 + jvm视频教程 链接: http://pan.baidu.com/s/1sjzAbFZ 密码: 5g1q
+
+#### RapidMiner
+
++ 大数据快速数据挖掘平台RapidMiner数据分析 链接:http://pan.baidu.com/s/1sjsOx45 密码:gbjk
