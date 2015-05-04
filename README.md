@@ -13,3 +13,4 @@
 #### 机器学习(Machine Learning)
 
 + 機器學習基石(Machine Learning Foundations) 链接: http://pan.baidu.com/s/1eQ6dkrg 密码: 36ti
++ 机器学习技法 链接: http://pan.baidu.com/s/1hqIkzp6 密码: q7qf
