@@ -9,3 +9,7 @@
 #### RapidMiner
 
 + 大数据快速数据挖掘平台RapidMiner数据分析 链接:http://pan.baidu.com/s/1sjsOx45 密码:gbjk
+
+#### 机器学习(Machine Learning)
+
++ 機器學習基石(Machine Learning Foundations) 链接: http://pan.baidu.com/s/1eQ6dkrg 密码: 36ti
