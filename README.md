@@ -14,3 +14,8 @@
 
 + 機器學習基石(Machine Learning Foundations) 链接: http://pan.baidu.com/s/1eQ6dkrg 密码: 36ti
 + 机器学习技法 链接: http://pan.baidu.com/s/1hqIkzp6 密码: q7qf
+
+#### lucene
+
++ 华电内部文档搜索系统 链接: http://pan.baidu.com/s/1dDdNeFZ 密码: wtc1
++ 基于Lucene4.6实战开发从无到有垂直搜索引擎 链接: http://pan.baidu.com/s/12VFsU 密码: tc3k
