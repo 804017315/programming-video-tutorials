@@ -29,3 +29,4 @@
 
 + 华电内部文档搜索系统(基于lucene) 链接: http://pan.baidu.com/s/1dDdNeFZ 密码: wtc1
 + 基于Lucene4.6实战开发从无到有垂直搜索引擎 链接: http://pan.baidu.com/s/12VFsU 密码: tc3k
++ Elasticsearch深入浅出视频_GK  http://pan.baidu.com/s/1i4EWeix
