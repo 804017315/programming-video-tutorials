@@ -6,6 +6,7 @@
 
 + jvm视频教程 链接: http://pan.baidu.com/s/1sjzAbFZ 密码: 5g1q
 + 深入JVM内核—原理、诊断与优化 链接: http://pan.baidu.com/s/1pLbKvvd
++ Building Microservices with Spring Boot LiveLessons (Video Training)  http://pan.baidu.com/s/1dFGazdv
 
 #### Redis
 
