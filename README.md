@@ -1,21 +1,22 @@
-## ³ÌĞòÔ±ÊÓÆµ½Ì³Ì ºÏ¼¯
+## ç¨‹åºå‘˜è§†é¢‘æ•™ç¨‹ åˆé›†
 
-ÔÚÎÒµÄÑ§Ï°¹ı³ÌÖĞ£¬ÊÕ¼¯ÁËĞí¶àÊÓÆµ½Ì³Ì£¬·ÖÏíµ½ÕâÀï·½±ã´ó¼Ò½»Á÷Ñ§Ï°£¬Èç¹ûÓĞ¸üºÃµÄ½Ì³Ì£¬»¶Ó­·¢pullrequest»òissue£¬ÎÒ»á¼°Ê±¸üĞÂ
+åœ¨æˆ‘çš„å­¦ä¹ è¿‡ç¨‹ä¸­ï¼Œæ”¶é›†äº†è®¸å¤šè§†é¢‘æ•™ç¨‹ï¼Œåˆ†äº«åˆ°è¿™é‡Œæ–¹ä¾¿å¤§å®¶äº¤æµå­¦ä¹ ï¼Œå¦‚æœæœ‰æ›´å¥½çš„æ•™ç¨‹ï¼Œæ¬¢è¿å‘pullrequestæˆ–issueï¼Œæˆ‘ä¼šåŠæ—¶æ›´æ–°
 
 #### Java
 
-+ jvmÊÓÆµ½Ì³Ì Á´½Ó: http://pan.baidu.com/s/1sjzAbFZ ÃÜÂë: 5g1q
++ jvmè§†é¢‘æ•™ç¨‹ é“¾æ¥: http://pan.baidu.com/s/1sjzAbFZ å¯†ç : 5g1q
++ æ·±å…¥JVMå†…æ ¸â€”åŸç†ã€è¯Šæ–­ä¸ä¼˜åŒ– é“¾æ¥: http://pan.baidu.com/s/1pLbKvvd
 
 #### RapidMiner
 
-+ ´óÊı¾İ¿ìËÙÊı¾İÍÚ¾òÆ½Ì¨RapidMinerÊı¾İ·ÖÎö Á´½Ó:http://pan.baidu.com/s/1sjsOx45 ÃÜÂë:gbjk
++ å¤§æ•°æ®å¿«é€Ÿæ•°æ®æŒ–æ˜å¹³å°RapidMineræ•°æ®åˆ†æ é“¾æ¥:http://pan.baidu.com/s/1sjsOx45 å¯†ç :gbjk
 
-#### »úÆ÷Ñ§Ï°(Machine Learning)
+#### æœºå™¨å­¦ä¹ (Machine Learning)
 
-+ ™CÆ÷ŒWÁ•»ùÊ¯(Machine Learning Foundations) Á´½Ó: http://pan.baidu.com/s/1eQ6dkrg ÃÜÂë: 36ti
-+ »úÆ÷Ñ§Ï°¼¼·¨ Á´½Ó: http://pan.baidu.com/s/1hqIkzp6 ÃÜÂë: q7qf
++ æ©Ÿå™¨å­¸ç¿’åŸºçŸ³(Machine Learning Foundations) é“¾æ¥: http://pan.baidu.com/s/1eQ6dkrg å¯†ç : 36ti
++ æœºå™¨å­¦ä¹ æŠ€æ³• é“¾æ¥: http://pan.baidu.com/s/1hqIkzp6 å¯†ç : q7qf
 
 #### lucene
 
-+ »ªµçÄÚ²¿ÎÄµµËÑË÷ÏµÍ³ Á´½Ó: http://pan.baidu.com/s/1dDdNeFZ ÃÜÂë: wtc1
-+ »ùÓÚLucene4.6ÊµÕ½¿ª·¢´ÓÎŞµ½ÓĞ´¹Ö±ËÑË÷ÒıÇæ Á´½Ó: http://pan.baidu.com/s/12VFsU ÃÜÂë: tc3k
++ åç”µå†…éƒ¨æ–‡æ¡£æœç´¢ç³»ç»Ÿ é“¾æ¥: http://pan.baidu.com/s/1dDdNeFZ å¯†ç : wtc1
++ åŸºäºLucene4.6å®æˆ˜å¼€å‘ä»æ— åˆ°æœ‰å‚ç›´æœç´¢å¼•æ“ é“¾æ¥: http://pan.baidu.com/s/12VFsU å¯†ç : tc3k
