@@ -24,6 +24,9 @@
 
 + 機器學習基石(Machine Learning Foundations) 链接: http://pan.baidu.com/s/1eQ6dkrg 密码: 36ti
 + 机器学习技法 链接: http://pan.baidu.com/s/1hqIkzp6 密码: q7qf
++ 12-python视频 神经网络 Tensorflow 模块 视频教程 (带源码) 链接: https://pan.baidu.com/s/1Vy4Kfc2yedraXBl_vHYUiA 提取码: ficx 
++ 2017七月算法机器学习项目班 链接: https://pan.baidu.com/s/11P4AKQ9c7NknWNH5NDmVhQ 提取码: vgeb
++ 2016七月在线：计算机视觉(从CV基础到深度学习实战) 链接: https://pan.baidu.com/s/1wBC3M-6iSwiMYtf37tG4Ig 提取码: eiwp 
 
 #### 搜索
 
