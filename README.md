@@ -1,6 +1,31 @@
 ## 程序员视频教程 合集
 
-在我的学习过程中，收集了许多视频教程，分享到这里方便大家交流学习，如果有更好的教程，欢迎发pullrequest或issue，我会及时更新
+这些视频教程, 仅用于学习交流, 如果资金允许, 请购买正版. 如有侵权, 请发issue或者联系我以删除.
+
+
+
+
+# 20190930更新
+
+#### java
+
++ 链接: https://pan.baidu.com/s/13VMyCO7qrAFrzu0L972_Ww 提取码: hr93 深入拆解 Java 虚拟机【完结】
++ 链接: https://pan.baidu.com/s/1lEZC4ek9cAmqqBHZf2V3kg 提取码: 5y8u 2019Java最新高级面试专题（分布式，性能优化，微服务，redis）
++ 链接: https://pan.baidu.com/s/1TFtj9SmxYMHPgKe_PnmHeg 提取码: m4es java核心技术36讲
++ 链接: https://pan.baidu.com/s/1giHrDdYiMhPXo_l_yRmnFQ 提取码: nfy5 Java性能调优实战
++ 链接: https://pan.baidu.com/s/1ePh9fJ85oKsC4PcQ4YSG6Q 提取码: 5ed3 （第二版）亿级流量电商详情页系统实战-缓存架构+高可用服务架构+微服务架构
++ 链接: https://pan.baidu.com/s/1AzduD3pQ_Xg3GRpHxo2kiw 提取码: 7amv Java生产环境下性能监控与调优详解
++ 链接: https://pan.baidu.com/s/1DfqF1f99GqVsfRpQQgZGsw 提取码: nvja 玩转Spring全家桶(完结)
++ 链接: https://pan.baidu.com/s/1PP0s9gwDV3CX7mwzyW88zw 提取码: cj2t 微服务架构实战160讲
+
+
+
+
+
+
+
+
+# 2019年之前的视频
 
 #### Java
 
