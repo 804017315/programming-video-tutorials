@@ -18,10 +18,26 @@
 + 链接: https://pan.baidu.com/s/1DfqF1f99GqVsfRpQQgZGsw 提取码: nvja 玩转Spring全家桶(完结)
 + 链接: https://pan.baidu.com/s/1PP0s9gwDV3CX7mwzyW88zw 提取码: cj2t 微服务架构实战160讲
 
+#### Kubernetes
 
++ 链接: https://pan.baidu.com/s/1aw3ePM5cgtxB9M7DQupaFg 提取码: ummd Docker+Kubernetes(k8s)微服务容器化实践(无密)
++ 链接: https://pan.baidu.com/s/1uzTb2ptGBLLKy6hAeAus9Q 提取码: 4u49 Kubernetes（k8s）生产级实践指南 从部署到核心应用
++ 链接: https://pan.baidu.com/s/1WkbIvVMX0vjPk01gpRF01w 提取码: e844 尚硅谷Kubernetes教程
++ 链接: https://pan.baidu.com/s/1jvEb9ncFmma3VRDR3gmdrA 提取码: ckwt 深入剖析k8s
++ 链接: https://pan.baidu.com/s/1USWNSy8xxWV81dHqeHeD1A 提取码: v2gx 腾讯课堂《K8S容器云平台工程师》
 
+#### Elasticsearch
 
++ 链接: https://pan.baidu.com/s/11yVmCuTscM_1QbdIEKA_1Q 提取码: aihu Elasticsearch核心技术与实战
++ 链接: https://pan.baidu.com/s/18xS6DixOvAq0rIs-p4wYOw 提取码: jdk1 龙果学院-Elasticsearch顶尖高手系列
 
+#### 机器学习与量化交易
++ 链接: https://pan.baidu.com/s/1U5p129r9mItwQt2jReHGHw 提取码: 19tq 零起点TensorFlow与量化交易
++ 链接: https://pan.baidu.com/s/1zJx-w5YAHw2q6AyugLXpVg 提取码: 3mcp OpenCV+TensorFlow 入门人工智能图像处理（无密完整）
++ 链接: https://pan.baidu.com/s/1zJx-w5YAHw2q6AyugLXpVg 提取码: 3mcp Python数字货币量化投资课程
++ 链接: https://pan.baidu.com/s/1qdPnPmG0x8mNF1ZpdYrHSA 提取码: u6i3 ！Python3数据分析与挖掘建模实战
++ 链接: https://pan.baidu.com/s/1O_Zsfz2wGm5O7GaIIDI5DQ 提取码: 5yjc 华尔街学堂《Python爬虫数据分析可视化金融务实系统从入门到精通201906》2019
++ 链接: https://pan.baidu.com/s/1Qqb4mitL4_yk5wK_9nBGxw 提取码: b7pg 数据分析和人工智能教程全套【2019千锋Python】（145集）
 
 
 
