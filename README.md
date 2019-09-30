@@ -33,11 +33,13 @@
 
 #### 机器学习与量化交易
 + 链接: https://pan.baidu.com/s/1U5p129r9mItwQt2jReHGHw 提取码: 19tq 零起点TensorFlow与量化交易
-+ 链接: https://pan.baidu.com/s/1zJx-w5YAHw2q6AyugLXpVg 提取码: 3mcp OpenCV+TensorFlow 入门人工智能图像处理（无密完整）
 + 链接: https://pan.baidu.com/s/1zJx-w5YAHw2q6AyugLXpVg 提取码: 3mcp Python数字货币量化投资课程
 + 链接: https://pan.baidu.com/s/1qdPnPmG0x8mNF1ZpdYrHSA 提取码: u6i3 ！Python3数据分析与挖掘建模实战
 + 链接: https://pan.baidu.com/s/1O_Zsfz2wGm5O7GaIIDI5DQ 提取码: 5yjc 华尔街学堂《Python爬虫数据分析可视化金融务实系统从入门到精通201906》2019
 + 链接: https://pan.baidu.com/s/1Qqb4mitL4_yk5wK_9nBGxw 提取码: b7pg 数据分析和人工智能教程全套【2019千锋Python】（145集）
+
+#### 机器学习与计算机视觉
++ 链接: https://pan.baidu.com/s/1zJx-w5YAHw2q6AyugLXpVg 提取码: 3mcp OpenCV+TensorFlow 入门人工智能图像处理（无密完整）
 
 
 
